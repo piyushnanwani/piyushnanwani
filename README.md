@@ -2,7 +2,7 @@
 
 Joined Github **3** years ago.
 
-Since then I pushed **566** commits, opened **32** issues, submitted **57** pull requests, worked on **59** personal projects and contributed to **9** public repositories.
+Since then I pushed **568** commits, opened **32** issues, submitted **57** pull requests, worked on **59** personal projects and contributed to **9** public repositories.
 
 Most used languages across my projects:
 
@@ -27,7 +27,9 @@ Most used languages across my projects:
 - [Covid Tracker in React JS ](https://github.com/piyushnanwani/covid-19-tracker)
 - [REST API in NodeJS (secure JWT token) ](https://github.com/piyushnanwani/smart_home_backend)
 - [REST API in Django ](https://github.com/piyushnanwani/rest-api-django)
-- [Blog in React using Next.js ](https://github.com/piyushnanwani/my-blog)
+- [Portfolio website of Morris N Company](https://morrisncompany.com)
+- [My portfolio website](https://github.com/piyushnanwani/piyushnanwani.github.io)
+- [My Personal Blog in React using Next.js ](https://github.com/piyushnanwani/my-blog)
 - [Blog in React using Gatsby](http://pics.piiyush.me) 
 - [Detecting circles in an image using OpenCV in JavaScript ](https://github.com/piyushnanwani/finding-circles)
 - [Website to book hotel rooms using React JS ](https://github.com/piyushnanwani/beach-resort)
