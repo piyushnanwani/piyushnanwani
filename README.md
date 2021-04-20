@@ -2,7 +2,7 @@
 
 Joined Github **3** years ago.
 
-Since then I pushed **581** commits, opened **33** issues, submitted **58** pull requests, worked on **59** personal projects and contributed to **9** public repositories.
+Since then I pushed **594** commits, opened **33** issues, submitted **60** pull requests, worked on **59** personal projects and contributed to **9** public repositories.
 
 Most used languages across my projects:
 
@@ -30,16 +30,15 @@ Most used languages across my projects:
 - [REST API in Django ](https://github.com/piyushnanwani/rest-api-django)
 - [Portfolio website of Morris N Company](https://morrisncompany.com)
 - [My portfolio website](https://github.com/piyushnanwani/piyushnanwani.github.io)
+- [Website to book hotel rooms using React JS ](https://github.com/piyushnanwani/beach-resort)
 - [My Personal Blog in React using Next.js ](https://github.com/piyushnanwani/my-blog)
 - [Table data sort in React JS ](https://github.com/piyushnanwani/react-table-data-sort)
 - [Slide Show in React JS ](https://github.com/piyushnanwani/react-slideshow-app)
 - [Covid Tracker in React JS ](https://github.com/piyushnanwani/covid-19-tracker)
 - [Blog in React using Gatsby](http://pics.piiyush.me) 
 - [Detecting circles in an image using OpenCV in JavaScript ](https://github.com/piyushnanwani/finding-circles)
-- [Website to book hotel rooms using React JS ](https://github.com/piyushnanwani/beach-resort)
 - [Flask tutorial code ](https://github.com/piyushnanwani/flask-mega-tutorial)
-- [Django turial code ](https://github.com/piyushnanwani/mysitePart4)
-- [Flipkart template clone ](https://github.com/piyushnanwani/flipkart-template) 
+- [Django tutorial code ](https://github.com/piyushnanwani/mysitePart4)
 
 3) Data Analysis using Python
 - [Healthcare Systems of India: Data Analysis](https://github.com/piyushnanwani/Healthcare-India-Data-Analysis)
