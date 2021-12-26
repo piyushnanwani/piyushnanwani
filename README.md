@@ -2,7 +2,7 @@
 
 Joined Github **3** years ago.
 
-Since then I pushed **1117** commits, opened **97** issues, submitted **107** pull requests, worked on **77** personal projects and contributed to **8** public repositories.
+Since then I pushed **1122** commits, opened **97** issues, submitted **107** pull requests, worked on **77** personal projects and contributed to **8** public repositories.
 
 Most used languages across my projects:
 
@@ -21,15 +21,11 @@ Most used languages across my projects:
 ## Projects Summary:
 
 1) App Development
-- Ecommerce Marketplace App made from scratch in React Native. ( *Tech stack* : react-native, react, redux, react-navigation, redux-thunk, redux-persist, react-native-paper ... , *Backend*: NodeJs, MongoDB, ExpressJS, Multer, Zoho Mail ... )
-  - [Buyer App](https://play.google.com/store/apps/details?id=com.atomxel.uzonn) 
-  - [Seller App](https://play.google.com/store/apps/details?id=com.atomxel.uzonn_seller)
 - [Smart Home App in React Native ](https://github.com/piyushnanwani/ultra-legendary-fortnight)
 - [AP Live - Online Radio Streaming App ](https://play.google.com/store/apps/details?id=com.aplive)
 
 2) Web Development
 - [Green house gases emission analysis using react-charts & svg in React JS](https://github.com/piyushnanwani/greenhouse-doodle)
-- [Certificate Generator App for Leaders for Tomorrow](https://leaders-for-tomorrow.herokuapp.com/)
 - [Issue Tracker app using MERN Stack](https://github.com/piyushnanwani/issue-tracker-app)
 - [REST API in NodeJS (secure JWT token) ](https://github.com/piyushnanwani/smart_home_backend)
 - [REST API in Django ](https://github.com/piyushnanwani/rest-api-django)
