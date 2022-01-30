@@ -1,8 +1,8 @@
 ### Hi there, I’m Piyush 👋
 
-Joined Github **3** years ago.
+Joined Github **4** years ago.
 
-Since then I pushed **1196** commits, opened **103** issues, submitted **112** pull requests, worked on **82** personal projects and contributed to **6** public repositories.
+Since then I pushed **1197** commits, opened **103** issues, submitted **112** pull requests, worked on **82** personal projects and contributed to **6** public repositories.
 
 Most used languages across my projects:
 
