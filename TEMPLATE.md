@@ -16,10 +16,15 @@ Most used languages across my projects:
 ## Projects Summary:
 
 1) App Development
+- [Uzonn Online Shopping - Full Ecommerce App](https://play.google.com/store/apps/details?id=com.atomxel.uzonn) (Private)
+- [Uzonn App for Sellers](https://play.google.com/store/apps/details?id=com.atomxel.uzonn_seller) (Private)
+- Backup Data to FTP in React Native (Private)
 - [Smart Home App in React Native ](https://github.com/piyushnanwani/ultra-legendary-fortnight)
-- [AP Live - Online Radio Streaming App ](https://play.google.com/store/apps/details?id=com.aplive)
+- [AP Live - Online Radio Streaming App ](https://play.google.com/store/apps/details?id=com.aplive) (Private)
 
 2) Web Development
+- [Official website of Atomxel LLP](https://atomxel.com)
+- [Certificate generator App for Leaders for Tomorrow](https://leaders-for-tomorrow.herokuapp.com/)
 - [Green house gases emission analysis using react-charts & svg in React JS](https://github.com/piyushnanwani/greenhouse-doodle)
 - [Issue Tracker app using MERN Stack](https://github.com/piyushnanwani/issue-tracker-app)
 - [REST API in NodeJS (secure JWT token) ](https://github.com/piyushnanwani/smart_home_backend)
